@@ -7,3 +7,5 @@
 -Responsive yapi ile tum cihazlara uyumu saglandi.
 
 # GIF
+
+<img src="Hello World (1).gif">
