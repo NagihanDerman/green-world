@@ -1,10 +1,10 @@
 ## Hello World
 
--Html ve Css kullanilarak tasarlandi.
+- Prepared using HTML and CSS.
 
--Javascript kodlari kullanilarak sayfa dinamaik hale getirildi.
+- Basic level JavaScript code has been used.
 
--Responsive yapi ile tum cihazlara uyumu saglandi.
+- A responsive design ensures compatibility with all types of devices.
 
 # GIF
 
